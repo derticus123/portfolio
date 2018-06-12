@@ -1,0 +1,31 @@
+.row{   
+
+    background-color:black;
+    color:red;
+    font-size:20px;
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:black;
+    color:purple;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Indie Flower', cursive;
+}
+.aboutme{
+    
+}
+.my-picture{
+    width:100%;
+}
+body{
+    background-color:black;
+}
