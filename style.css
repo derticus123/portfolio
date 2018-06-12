@@ -24,11 +24,14 @@
     
 }
 .my-picture{
-    width:100%;
+    width:50%;
 }
 body{
     background-color:black;
 }
 .my-face{
     border-radius:50%;
+}
+#buttons{
+    text-align:center;
 }
